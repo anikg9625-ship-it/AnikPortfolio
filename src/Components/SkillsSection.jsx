@@ -1,7 +1,6 @@
 import React from 'react'
 import html from "../assets/Images/html-image.png";
 import css from "../assets/Images/css-image.webp";
-import javascript from "../assets/Images/javascript-image.jpg";
 import bootstrap from "../assets/Images/bootstap-image.png";
 import react from "../assets/Images/react-image.png";
 import '../Css/SkillsSection.css'
