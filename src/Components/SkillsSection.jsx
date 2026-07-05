@@ -1,9 +1,9 @@
 import React from 'react'
-import html from "../assets/images/html-image.png";
-import css from "../assets/images/css-image.webp";
-import javascript from "../assets/images/javascript-image.jpg";
-import bootstrap from "../assets/images/bootstap-image.png";
-import react from "../assets/images/react-image.png";
+import html from "../assets/Images/html-image.png";
+import css from "../assets/Images/css-image.webp";
+import javascript from "../assets/Images/JavaScript-image.jpg";
+import bootstrap from "../assets/Images/bootstap-image.png";
+import react from "../assets/Images/react-image.png";
 import '../Css/SkillsSection.css'
 const SkillsSection = () => {
   
