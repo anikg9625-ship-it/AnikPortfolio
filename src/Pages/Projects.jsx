@@ -1,6 +1,6 @@
 
 import React from 'react'
-import Anikmart from "../assets/Images/Anikmart.png";
+import Anikmart from "../assets/Images/anikmart.png";
 import Anikburger from "../assets/Images/anikburger.png";
 import Floweraura from "../assets/Images/flower-aura.png";
 import Tanishq from "../assets/Images/tanishq.png";
