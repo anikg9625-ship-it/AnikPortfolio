@@ -30,12 +30,7 @@ const Skills = () => {
       name: "React",
       text: "I have a solid understanding of React.js, including building reusable components, managing state and props, handling events, working with hooks, and creating dynamic and responsive user interfaces.",
     },
-    {
-      id: 5,
-      img: javascript,
-      name: "JavaScript",
-      text: "I have a basic understanding of JavaScript, including variables, functions, DOM manipulation, and event handling, and I am continuously improving my skills.",
-    },
+   
   ];
 
   return (

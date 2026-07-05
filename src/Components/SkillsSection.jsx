@@ -16,7 +16,7 @@ const SkillsSection = () => {
             <div className="d-flex me-auto gap-4">
               <img src={html} className="img-thumbnail" alt="" />
                <img src={css} className="img-fluid" alt="" />
-                <img src={javascript} className="img-fluid" alt="" />
+                
                  <img src={bootstrap} className="img-fluid" alt="" />
                   <img src={react} className="img-fluid" alt="" />
                   
