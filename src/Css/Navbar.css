@@ -1,0 +1,15 @@
+#navbar {
+  color: #0d8de2;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
+#navbar:hover{
+    text-decoration: underline;
+}
+.collapse ul li a {
+  font-size: large;
+}
+.collapse ul li a:hover {
+  color: #0d8de2;
+  text-decoration: underline;
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.4);
+}
